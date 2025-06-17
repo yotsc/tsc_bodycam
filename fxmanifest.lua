@@ -19,7 +19,7 @@ ui_page 'html/index.html'
 
 files {
     'html/index.html',
-    'html/style.css',
+    'html/styles.css',
     'html/main.js',
     'html/logo.png'
 }
